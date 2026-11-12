@@ -1,0 +1,1 @@
+yalnlızca j2me destekleyen telefonlarda
